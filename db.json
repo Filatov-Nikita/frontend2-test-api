@@ -5,6 +5,18 @@
       "text": "Купить молоко",
       "schedule": "MORNING",
       "complete": false
+    },
+    {
+      "id": 2,
+      "text": "Купить хлеб",
+      "complete": false,
+      "schedule": null
+    },
+    {
+      "id": 3,
+      "text": "Купить машину",
+      "complete": false,
+      "schedule": "EVENING"
     }
   ]
 }
