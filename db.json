@@ -2,7 +2,9 @@
   "tasks": [
     {
       "id": 1,
-      "text": "Купить молоко"
+      "text": "Купить молоко",
+      "schedule": "MORINING",
+      "complete": false
     }
   ]
 }
