@@ -18,5 +18,11 @@
       "complete": false,
       "schedule": "EVENING"
     }
-  ]
+  ],
+  "profile": {
+    "name": "Никита",
+    "email": "1@1.ru",
+    "position": "dir",
+    "address": "pushkina 1/1"
+  }
 }
